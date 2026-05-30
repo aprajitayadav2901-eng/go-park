@@ -80,14 +80,4 @@ VIT Bhopal University
 - GitHub: https://github.com/aprajitayadav2901-eng
 - LinkedIn: https://www.linkedin.com/in/aprajitayadav2901
 
----
 
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
-
----
-
-## 📄 License
-
-This project is created for learning and educational purposes.
