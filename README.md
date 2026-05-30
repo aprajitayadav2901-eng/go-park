@@ -55,17 +55,11 @@ python main.py
 
 ## 📸 Screenshots
 
-You can add screenshots of:
-- Parking Detection
-- Vehicle Tracking
-- Dashboard Interface
-- Output Results
 
 ---
 
 ## 📽️ Demo Video
 
-Demo video and complete project files are available in the drive link above.
 
 ---
 
