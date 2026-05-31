@@ -51,16 +51,11 @@ Run the project:
 
 ```bash
 python main.py
-```
 
-## 📸 Screenshots
-
-
----
 
 ## 📽️ Demo Video
 
-
+https://drive.google.com/file/d/1FRjP86lc9vewTwoVIObPS6VAYWTxMMRE/view?usp=sharing
 ---
 
 ## 👩‍💻 Author
